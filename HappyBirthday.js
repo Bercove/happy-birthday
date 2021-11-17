@@ -1,4 +1,5 @@
 class Human{
+    
     constructor(person){
         this.person = person
     }
